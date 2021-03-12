@@ -1,15 +1,14 @@
 function main() {
     var myString;
 
-    myString="FirstLine\n\t\\SecondLine\nThirdLine"
+    myString="FirstLine\n\tSecondLine\nThirdLine\n"
 
     
     
 
     
-return {
-        myString
-    }
+return myString;
+    
     
         
     }
