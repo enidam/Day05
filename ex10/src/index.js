@@ -1,6 +1,6 @@
 function main() {
    
-    var myString = "Jello Worls";
+    var myString = "Jello World";
     
     
     myString = "Hello World";
